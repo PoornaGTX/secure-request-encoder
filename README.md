@@ -26,6 +26,5 @@ const app = express();
 
 app.use(securerequestencoder);
 
-### Feel free to customize and expand upon this description to provide more information about your package's functionality, usage, and any additional features or considerations.
-
 ```
+### Feel free to customize and expand upon this description to provide more information about your package's functionality, usage, and any additional features or considerations.
